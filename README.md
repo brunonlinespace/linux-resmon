@@ -41,4 +41,4 @@ I tested all versions except Version 4 because I did not want to install the ext
 4. Have fun!
 
 <hr>
-I thought this was a fun little project so I decided to share in case you find it fun/useful too. You can help me make it better, but I do not plan to spend much time on this project unless it really does take off, but I need the open-source collaboration because I am not a programmer and have no clue about python. I am also new in GitHub so please be kind to me :-P
+I thought this was a fun little project so I decided to share it in case you find it fun/useful too. You can help me make it better, but I do not plan to spend much time on this project unless it really does take off, but I need the open-source collaboration because I am not a programmer and have no clue about python. I am also new in GitHub so please be kind to me :-P
