@@ -18,7 +18,7 @@ I thought... What about asking Gemini to code this for me just for fun? This is 
 <b>OK, now tell me about the files?</b>
 I tested all versions except Version 4 because I did not want to install the extra dependencies to draw the graphs; all other versions need python3 plus python3-pyqt6 and python3-psutil. All versions were tested on Fedora 44 KDE; I did not test this on any non-systemd systems; I did not test this on any Arch/Debian-derivative either.
 
-<strong>The best version is Version 16</strong>:
+<strong>I think the best version is VERSION 16</strong>:
 - Version 1 (tested, OK) - the OG, simple Disk and Network monitor, in separate tabs. Generated in Gemini Flash.
 - Version 2 (tested, OK) - I asked Gemini to give me sorting ability per column but this did not seem to work. Generated in Gemini Flash.
 - Version 3 (tested, OK) - I asked it to log the history of the records so this generates a .db file. Generated in Gemini Flash.
