@@ -13,7 +13,7 @@ I looked extensively for this, but I could not find a like-for-like equivalent o
 I thought, what about asking Gemini to code this for me for fun? This is where it came up with the ".py" files you see. All the 17 versions here uploaded represent the concept evolution, for you to have a look and audit, use and fork, and do as you well please (I think I put it under GPL3).
 
 <b>OK, now tell me about the files?</b>
-I tested all versions except Version 4 because I did not want to install the extra dependencies to draw the graphs; all other versions need python3 plus python3-pyqt6 and python3-psutil. All versions were tested on Fedora 44 KDE; I did not test this on any non-systemd systems; I did not test this on any Arch/Debian-derived systems either.
+I tested all versions except Version 4 because I did not want to install the extra dependencies to draw the graphs; all other versions need python3 plus python3-pyqt6 and python3-psutil. All versions were tested on Fedora 44 KDE; I did not test this on any non-systemd systems; I did not test this on any Arch/Debian-derivative either.
 
 <strong>The best version for me, is Version 16</strong>:
 - Version 1 (tested, OK) - the OG, simple Disk and Network monitor in separate tabs. Generated in Gemini Flash.
