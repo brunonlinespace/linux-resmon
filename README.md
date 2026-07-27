@@ -34,7 +34,7 @@ I tested all versions except Version 4 because I did not want to install the ext
 - Version 13 (tested, OK) - Followed Gemini suggestion to opt for Delta Updates. Generated in Gemini Pro.
 - Version 14 (tested, OK) - It now remembers panel position (persistance). Generated in Gemini Pro.
 - Version 15 (tested, OK) - It now remembers position of panels and tabs (persistance). Generated in Gemini Pro.
-- <b>VERSION 16 (TESTED, OK) - THIS IS THE BEST VERSION.</b> It now includes a light/dark switch. Generated in Gemini Pro.
+- <b>VERSION 16 (TESTED, OK) - THIS IS MY BEST VERSION.</b> It now includes a light/dark switch. Generated in Gemini Pro.
 - Version 17 (tested, ?fail) - Asked for Gemini Pro for a debug, but I think it broke it.
 
 <b>OK, SO HOW DO I RUN THIS?</b>
