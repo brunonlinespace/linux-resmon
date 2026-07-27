@@ -7,7 +7,7 @@ Hello, world!
 I am NOT A PROGRAMMER. I simply had fun prompting Gemini to output all the python codes you will find in this repository.
 
 <b>OK, now about the concept?</b>
-I looked extensively for this, but I could not find a like-for-like equivalent of the Microsoft Windows Resource Monitor (resmon.exe) for Linux. All options I found are almost exclusively similar to the Task Manager or Process Monitor, but those did not interest me as I needed something graphical that could tell me disk usage (inc. rates) plus network usage (inc. outgoing IPs, etc.) and, for that purpose, not having to use too many separate TUIs like atop, etc. Also a thread that inspired me do this is old, can be found here: https://www.reddit.com/r/linux/comments/knzzq/is_there_a_linux_equivalent_of_windows_7s/.
+I looked extensively for this, but I could not find a like-for-like equivalent of the Microsoft Windows Resource Monitor (resmon.exe) for Linux. All options I found are almost exclusively similar to the Task Manager or Process Monitor, but those did not interest me as I needed something graphical that could tell me disk usage (inc. rates) plus network usage (inc. outgoing IPs, etc.) and, for that purpose, not having to use too many separate TUIs like atop, etc. Also a thread that inspired me do this is an old reddit post that can be found here: https://www.reddit.com/r/linux/comments/knzzq/is_there_a_linux_equivalent_of_windows_7s/.
 
 <b>OK, so what did I do?</b>
 I thought, what about asking Gemini to code this for me for fun? This is where it came up with the ".py" files you see. All the 17 versions represent the concept evolution, for you to have a look, audit, and fork as you well please (I think I put it under GPL3).
