@@ -30,12 +30,12 @@ I tested all versions except Version 4 because I did not want to install the ext
 - Version 9 (tested, OK) - Overview tab (CPU + Memory + Disk + Network) created, along with separate tabs for each feature. Generated in Gemini Flash.
 - Version 10 (tested, OK) - Now in dark mode. Generated in Gemini Flash.
 - Version 11 (tested, OK) - Asked Gemini Flash for a debug. Generated in Gemini Flash.
-- Version 12 (tested, OK) - Asked for Gemini Pro for a debug. Generated in Gemini Pro.
-- Version 13 (tested, OK) - Followed Gemini suggestion to opt for Delta Updates. Generated in Gemini Pro.
-- Version 14 (tested, OK) - It now remembers panel position (persistance). Generated in Gemini Pro.
-- Version 15 (tested, OK) - It now remembers position of panels and tabs (persistance). Generated in Gemini Pro.
-- Version 16 (tested, OK) - It now includes a light/dark switch. Generated in Gemini Pro.
-- Version 17 (tested, ?fail) - Asked for Gemini Pro for a debug, but I think it broke it.
+- Version 12 (tested, OK) - Asked Gemini Pro for a second debug. Generated in Gemini Pro.
+- Version 13 (tested, OK) - Followed Gemini suggestion to opt in for Delta Updates. Generated in Gemini Pro.
+- Version 14 (tested, OK) - Utility now remembers panel position (persistance). Generated in Gemini Pro.
+- Version 15 (tested, OK) - Utility now remembers position of panels and tabs (persistance). Generated in Gemini Pro.
+- Version 16 (tested, OK) - Utility now includes a light/dark switch. Generated in Gemini Pro.
+- Version 17 (tested, FAIL) - Asked for Gemini Pro for a debug, but I think it broke it.
 - Version 18 (tested, OK) - Asked for network data (upload vs download) to be provided by each process but Linux cannot do this, only possible by Interfaces. Generated on Gemini Pro (used V16).
 - Version 19 (tested, FAIL) - Asked to provide a switch between Interfaces and Processes but there was a bug. Generated on Gemini Pro.
 - <b>VERSION 20 (TESTED, OK) - THIS IS MY BEST VERSION.</b> Asked for the bug in V19 to be fixed and now the switch Interfaces vs Processes works! Generated on Gemini Pro.
