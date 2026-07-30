@@ -1,4 +1,4 @@
-# linux-resmon
+# linux-resmon.py
 A python equivalent of the Windows Resource Monitor (resmon.exe), for Linux
 
 Hello, world!
