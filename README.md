@@ -1,9 +1,7 @@
 # linux-resmon.py (archive)
 Archived versions of linux-resmon.py, the python equivalent of the Windows Resource Monitor (resmon.exe), for Linux
 
-<strong>Active version: Version 23.</strong>
-
-<strong>Change log:</strong>
+<strong>Active version: check "Main" branch.</strong>
 - Version 23 (tested, OK) - Manually modified the headers to align with my other projects.
 - Version 22 (tested, OK) - Fixes the "View" label in the Network widget. Generated on Gemini Flash.
 - Version 21 (tested, OK) - Changes the default Network view to "Processes". Generated on Gemini Flash.
