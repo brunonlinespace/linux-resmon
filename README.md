@@ -26,9 +26,9 @@ I tested all versions (except Version 4 because I did not want to install the ex
 5. Have fun!
 
 <hr>
-I thought this was a fun little project so I decided to share it in case you find it fun/useful too. You can help me make it better, but I do not plan to spend much time on this project unless it really does take off, but I need the open-source collaboration because I am not a programmer and I have no clue about python (yet?). I am also new in GitHub so please be kind to me :-P
+<p>I thought this was a fun little project so I decided to share it in case you find it fun/useful too. You can help me make it better, but I do not plan to spend much time on this project unless it really does take off, but I need the open-source collaboration because I am not a programmer and I have no clue about python (yet?). I am also new in GitHub so please be kind to me :-P</p>
 
-<p>
+
 <strong>Current version: Version 22. Change log:</strong>
 - Version 22 (tested, OK) - Fixes the "View" label in the Network widget. Generated on Gemini Flash.
 - Version 21 (tested, OK) - Changes the default Network view to "Processes". Generated on Gemini Flash.
@@ -52,4 +52,3 @@ I thought this was a fun little project so I decided to share it in case you fin
 - Version 3 (tested, OK) - I asked it to log the history of the records so this generates a .db file. Generated in Gemini Flash.
 - Version 2 (tested, OK) - I asked Gemini to give me sorting ability per column but this did not seem to work. Generated in Gemini Flash.
 - Version 1 (tested, OK) - the OG, simple Disk and Network monitor, in separate tabs. Generated in Gemini Flash.
-</p>
