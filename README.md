@@ -27,8 +27,8 @@ I tested all versions (except Version 4 because I did not want to install the ex
 
 <hr>
 I thought this was a fun little project so I decided to share it in case you find it fun/useful too. You can help me make it better, but I do not plan to spend much time on this project unless it really does take off, but I need the open-source collaboration because I am not a programmer and I have no clue about python (yet?). I am also new in GitHub so please be kind to me :-P
-<br>
-<strong>Current version: Version 22. Change log:</strong>
+</br>
+<b>Current version: Version 22. Change log:</b>
 - Version 22 (tested, OK) - Fixes the "View" label in the Network widget. Generated on Gemini Flash.
 - Version 21 (tested, OK) - Changes the default Network view to "Processes". Generated on Gemini Flash.
 - Version 20 (tested, OK) - Asked for the bug in V19 to be fixed and now the switch Interfaces vs Processes works! Generated on Gemini Pro.
