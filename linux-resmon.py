@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 #
 # Linux Resource Monitor - A lightweight resource monitor in python
-# linux-resmon.py
 # Copyright (C) 2026 brunonlinespace
 #
 # This program is free software: you can redistribute it and/or modify
@@ -17,6 +16,7 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 #
+# linux-resmon.py
 # Version: 23
 
 import sys
