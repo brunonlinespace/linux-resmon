@@ -1,7 +1,5 @@
 # linux-resmon.py (archive)
-A python equivalent of the Windows Resource Monitor (resmon.exe), for Linux
-
-I thought this was a fun little project so I decided to share it in case you find it fun/useful too. You can help me make it better, but I do not plan to spend much time on this project unless it really does take off, but I need the open-source collaboration because I am not a programmer and I have no clue about python (yet?). I am also new in GitHub so please be kind to me :-P</p>
+Archived versions of linux-resmon.py, the python equivalent of the Windows Resource Monitor (resmon.exe), for Linux
 
 <strong>Active version: Version 23.</strong>
 
