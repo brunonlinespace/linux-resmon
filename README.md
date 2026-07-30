@@ -18,7 +18,7 @@ I thought... What about asking Gemini to code this for me just for fun? This is 
 <b>OK, now tell me about the files?</b>
 I tested all versions except Version 4 because I did not want to install the extra dependencies to draw the graphs; all other versions need python3 plus python3-pyqt6 and python3-psutil. All versions were tested on Fedora 44 KDE; I did not test this on any non-systemd systems; I did not test this on any Arch/Debian-derivative either.
 
-<strong>I think the best version is VERSION 20</strong>:
+<strong>Latest best version is VERSION 22</strong>:
 - Version 1 (tested, OK) - the OG, simple Disk and Network monitor, in separate tabs. Generated in Gemini Flash.
 - Version 2 (tested, OK) - I asked Gemini to give me sorting ability per column but this did not seem to work. Generated in Gemini Flash.
 - Version 3 (tested, OK) - I asked it to log the history of the records so this generates a .db file. Generated in Gemini Flash.
@@ -38,7 +38,9 @@ I tested all versions except Version 4 because I did not want to install the ext
 - Version 17 (tested, FAIL) - Asked for Gemini Pro for a debug, but I think it broke it.
 - Version 18 (tested, OK) - Asked for network data (upload vs download) to be provided by each process but Linux cannot do this, only possible by Interfaces. Generated on Gemini Pro (used V16).
 - Version 19 (tested, FAIL) - Asked to provide a switch between Interfaces and Processes but there was a bug. Generated on Gemini Pro.
-- <b>VERSION 20 (TESTED, OK) - THIS IS MY BEST VERSION.</b> Asked for the bug in V19 to be fixed and now the switch Interfaces vs Processes works! Generated on Gemini Pro.
+- Version 20 (tested, OK) - Asked for the bug in V19 to be fixed and now the switch Interfaces vs Processes works! Generated on Gemini Pro.
+- Version 21 (tested, OK) - Changes the default Network view to "Processes". Generated on Gemini Flash.
+- Version 22 (tested, OK) - Fixes the "View" label in the Network widget. Generated on Gemini Flash.
 
 <b>OK, SO HOW DO I RUN THIS?</b>
 1. Ensure you have the required dependencies: python3, python3-pyqt6 and python3-psutil (attention: Version 4 needs more!).
