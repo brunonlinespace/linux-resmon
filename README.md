@@ -25,7 +25,7 @@ I tested all versions (except Version 4 because I did not want to install the ex
 4. Alternatively, you can grant "executable" permissions to the file and launch it via your file manager.
 5. Have fun!
 
-<strong>Current version: Version 22.</strong>
+<strong>Current version: Version 23.</strong>
 - Version 23 (tested, OK) - Manually modified the headers to align with my other projects.
 - Change log in the "Archive" branch.
 
