@@ -1,7 +1,7 @@
 # linux-resmon.py (archive)
 Archived versions of the linux-resmon.py.
 
-<strong>Active version: check "Main" branch.</strong>
+<strong>Active version: check "Main" branch. Change log:</strong>
 - Version 22 (tested, OK) - Fixes the "View" label in the Network widget. Generated on Gemini Flash.
 - Version 21 (tested, OK) - Changes the default Network view to "Processes". Generated on Gemini Flash.
 - Version 20 (tested, OK) - Asked for the bug in V19 to be fixed and now the switch Interfaces vs Processes works! Generated on Gemini Pro.
