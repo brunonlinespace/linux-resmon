@@ -9,8 +9,8 @@ I am NOT A PROGRAMMER. I simply had fun prompting Gemini to output all the pytho
 <b>OK, now about the concept?</b>
 I looked extensively for this, but I could not find a like-for-like equivalent of the Microsoft Windows Resource Monitor (resmon.exe) for Linux. All options I found were almost exclusively similar to the Task Manager or Process Monitor, but those did not interest me as I needed something graphical that could tell me disk usage (inc. rates) plus network usage (inc. outgoing IPs, etc.) and, for that purpose, not having to use too many separate TUIs like atop, etc. Also a thread that inspired me do this is an old reddit post that can be found here: https://www.reddit.com/r/linux/comments/knzzq/is_there_a_linux_equivalent_of_windows_7s/.
 
-<img width="480" height="270" alt="Screenshot_20260728_105457" src="https://github.com/user-attachments/assets/0fbcdf2f-1f54-4e4f-9338-a7c327218699" />
-<img width="480" height="270"alt="Screenshot_20260728_105516" src="https://github.com/user-attachments/assets/0abef471-52ad-488d-a060-a3cf2dd3bb31" />
+<img width="480" height="270" alt="Screenshot_20260730_110103" src="https://github.com/user-attachments/assets/4c208abe-039c-456d-a88d-0caa8352b2f6" />
+<img width="480" height="270"alt="Screenshot_20260730_110116" src="https://github.com/user-attachments/assets/c9efc95b-ee68-49cc-91c7-2785dcf40196" />
 
 <b>OK, so what did I do?</b>
 I thought... What about asking Gemini to code this for me just for fun? This is where it came up with the ".py" files you see. All the 17 versions uploaded here represent the evolution of the concept, for you to have a look and audit, use and fork, and do as you well please (I think I put it under GPL3).
