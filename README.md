@@ -18,16 +18,15 @@ I thought... What about asking Gemini to code this for me just for fun? This is 
 <b>OK, now tell me about the files?</b>
 I tested all versions (except Version 4 because I did not want to install the extra dependencies to draw the graphs); all versions need python3 plus python3-pyqt6 and python3-psutil. All versions were tested on Fedora 44 KDE. I did not test this on any non-systemd systems. I did not test this on any Arch/Debian-derivative either.
 
-<b>OK, SO HOW DO I RUN THIS?</b>
+<b>OK, how do I run this?</b>
 1. Ensure you have the required dependencies: python3, python3-pyqt6 and python3-psutil (attention: Version 4 needs more!).
-2. Just download the python file(s) you want.
-3. On the terminal, type "sudo python3" + the name of the file you want to try.
+2. Download the python file(s) you wish.
+3. On the terminal, type "python3" + the name of the file you want to try.
 4. Alternatively, you can grant "executable" permissions to the file and launch it via your file manager.
 5. Have fun!
 
 <hr>
 <p>I thought this was a fun little project so I decided to share it in case you find it fun/useful too. You can help me make it better, but I do not plan to spend much time on this project unless it really does take off, but I need the open-source collaboration because I am not a programmer and I have no clue about python (yet?). I am also new in GitHub so please be kind to me :-P</p>
-
 
 <strong>Current version: Version 22. Change log:</strong>
 - Version 22 (tested, OK) - Fixes the "View" label in the Network widget. Generated on Gemini Flash.
