@@ -26,6 +26,7 @@ I tested all versions (except Version 4 because I did not want to install the ex
 5. Have fun!
 
 <strong>Current version: Version 22.</strong>
+- Version 23 (tested, OK) - Manually modified the headers to align with my other projects.
 - Change log in the "Archive" branch.
 
 <hr>
