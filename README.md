@@ -26,8 +26,8 @@ I tested all versions (except Version 4 because I did not want to install the ex
 5. Have fun!
 
 <strong>Current version: Version 23.</strong>
-- Version 23 (tested, OK) - Manually modified the headers to align with my other projects.
-- Change log in the "Archive" branch.
+- Manually modified the headers to align with my other projects.
+- Rest of change log in the "Archive" branch.
 
 <hr>
 <p>I thought this was a fun little project so I decided to share it in case you find it fun/useful too. You can help me make it better, but I do not plan to spend much time on this project unless it really does take off, but I need the open-source collaboration because I am not a programmer and I have no clue about python (yet?). I am also new in GitHub so please be kind to me :-P</p>
