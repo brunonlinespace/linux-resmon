@@ -87,7 +87,7 @@ class NumericTableWidgetItem(QTableWidgetItem):
 class ResMonLinux(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Resource Monitor (ResMon) - Fedora Edition")
+        self.setWindowTitle("resmon.py - Linux Resource Monitor (v23)")
         self.resize(1200, 850)
 
         self.central_widget = QWidget()
